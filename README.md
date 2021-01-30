@@ -5,7 +5,8 @@ _Date_: january, 30th, 2020
 ## Data Journalism
 ![data journalism Image](./assets/Images/giphy.gif)
 
-## An Interactive Dashboard on the Current Trends and Health Factors that is shaping people's lives in the United States of America.
+## Background
+### An Interactive Dashboard on the Current Trends and Health Factors that is shaping people's lives in the United States of America.
 The following dashboard shows the analysis of Median age, household income, and poverty rates (y-axis) and their corresponding relationship with smoking, lack of healthcare, and obesity rates (x-axis) for each state in the United States of America.
 
 ## Key Findings:
@@ -19,7 +20,7 @@ To see the relationships, click on any of the factors and hover over it to see t
 ## Over All layout
 ![data journalism ](./assets/Images/D3Times.gif)
 ## Deployment
-This app is deployed public on GitHub page, click the following link to see how it looks like D3 Time Home page
+This app is deployed public on GitHub page, click the following link to see how it looks like [Data Journalism Dashboard - by Saloni Gupta]()
 
 ## About the Data
 [US Census Bureau](https://data.census.gov/cedsci/profile?g=0100000US)
