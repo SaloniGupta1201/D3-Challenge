@@ -20,7 +20,7 @@ To see the relationships, click on any of the factors and hover over it to see t
 ## Over All layout
 ![data journalism ](./assets/Images/D3Times.gif)
 ## Deployment
-This app is deployed public on GitHub page, click the following link to see how it looks like [Data Journalism Dashboard - by Saloni Gupta]()
+This app is deployed public on GitHub page, click the following link to see how it looks like [Data Journalism Dashboard - by Saloni Gupta](https://salonigupta1201.github.io/D3-Challenge/index.html)
 
 ## About the Data
 [US Census Bureau](https://data.census.gov/cedsci/profile?g=0100000US)
