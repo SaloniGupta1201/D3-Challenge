@@ -7,7 +7,7 @@ _Date_: january, 30th, 2020
 
 ## Background
 ### An Interactive Dashboard on the Current Trends and Health Factors that is shaping people's lives in the United States of America.
-The following dashboard shows the analysis of Median age, household income, and poverty rates (y-axis) and their corresponding relationship with smoking, lack of healthcare, and obesity rates (x-axis) for each state in the United States of America.
+The following dashboard shows the analysis of Median age, household income, and poverty rates (y-axis) and their corresponding relationship with smoking, lack of healthcare, and obesity rates (x-axis) for 50 states and the District of Columbia in the United States of America.
 
 ## Key Findings:
 - From the graph, it can be inferred that there is a positive correlation between the state poverty rate (%), and the rate of risk factors % (Obese, Smokers, and Lack of Health Care). When the poverty rate is higher the tendency to get obese, and being a smoker is higher.
