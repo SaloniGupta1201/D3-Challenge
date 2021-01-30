@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>D3Times</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/d3Style.css">
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-9">
+  <!-- added header text for better visualizations-->
+    <header>
+      <img src="assets/Images/D3-Times.JPG" width="200" height="60" alt=" D3 Times ">
+    </header>
+    <div class="article">
+    <hr>
+    <h2>Data Journalism: An Interactive Dashboard depicting Current Trends and Health Factors in the United States of America.</h2>
+    <br>
+    <p>
+      The following dashboard shows the analysis of Median age, household income, and poverty rates (y-axis) and their corresponding relationship with smoking, lack of healthcare, and obesity rates (x-axis) for each state in the United States of America.
+    </p>
+  <hr>
+  <h2>An Interactive Scatter Plot on the Patterns</h2>
+  <p> To see the relationships, click on any of the factors and hover over it to see the detailed information.
+  </p>
+  </div>
+    <div id="scatter">
+      <!-- We append our chart here. -->
+    </div>
+  </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12  col-md-9">
+        <div class="article">
+          <h2>Correlations Discovered Between Health Risks and Age, Income</h2>
+          <br>
+          <div id="author">
+              <h1>Poverty Rate or Household Income (Median) Versus Health Risks</h1>
+          </div>
+          <p>
+            <ul>
+              <li> From the graph, it can be inferred that there is a positive correlation between the state poverty rate (%), and the rate of risk factors % (Obese, Smokers, and Lack of Health Care).
+              When the poverty rate is higher the tendency to get obese, and being a smoker is higher. </li>
+              <li> The data shows a negative correlation between household income (Median), and the rate of risk factors % (Obese,
+              smokes, and lack of health care) indicating higher income prevails lower risk factors.</li>
+            </ul>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer-->
+  <div id="footer">
+    <p>D3 Challenge &copy;2021</p>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+ <!-- <script type="text/javascript" src="assets/js/app.js"></script> -->
+  <script type="text/javascript" src="assets/js/appbonus.js"></script>
+
+</body>
+
+</html>

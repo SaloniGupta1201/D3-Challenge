@@ -1,0 +1,99 @@
+.iframeContainer {
+  padding: 20px;
+  border: 1px solid #e3e3e3;
+}
+
+.h2,
+h2 {
+    color: rgb(143, 45, 10);
+    font-size: 1.7rem;
+    font-weight: bold;
+    font-family: "Guardian Egyptian Web", Georgia, serif;
+}
+/* Sticky Footer rules (https://getbootstrap.com/examples/sticky-footer/) */
+html {
+  position: relative;
+  min-height: 100%;
+}
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+body {
+  /* Padding bottom by footer height */
+  padding-bottom: 80px;
+  background-image: url(../Images/artificial-intelligence.jpeg);
+}
+header {
+  padding-left: 0px;
+  text-align: left;
+  background: rgb(3, 6, 53);
+  font-size: 20px;
+  width: 1110px;
+}
+
+#author p {
+  font-size: 0.75rem;
+  color: #767676;
+}
+#author h1 {
+  font-size: 18px;
+  color: rgb(8, 16, 133);
+  font-weight: bold;
+}
+#footer {
+  position: absolute;
+  font-family: "Guardian Egyptian Web", Georgia, serif;
+  bottom: 0;
+  width: 100%; /* Set the fixed height of the footer here */
+  height: 10px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color: rgb(4, 6, 44);
+}
+
+#footer p {
+  color: #e3e3e3;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Guardian Egyptian Web", Georgia, serif;
+}
+/* article */
+
+.article {
+  font-size: 18px;
+  font-family: Arial;
+  color: rgb(0, 0, 0);
+  line-height: 1.7;
+  text-align: left;
+  text-justify: inter-word;
+  padding-right: 50px;
+  background-color: rgb(255, 255, 255);
+  padding: 50px;
+  width: 1110px;
+  font-family: "Guardian Egyptian Web", Georgia, serif;
+}
+
+/* h3 {
+  font-size: 1.25rem;
+  line-height: 1.4375rem;
+  font-weight: 50;
+  font-family: "Guardian Egyptian Web", Georgia, serif;
+  color: #121212;
+} */
+
+
+/* Mobile Rules */
+
+@media screen and (max-width: 530px) {
+  .article {
+      width: 500px;
+  }
+  header {
+      width: 500px;
+  }
+  #footer {
+      width: 500px;
+  }
+}
