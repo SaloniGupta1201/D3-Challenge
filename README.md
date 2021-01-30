@@ -17,7 +17,7 @@ The following dashboard shows the analysis of Median age, household income, and 
 - The age demographic is densely populated within the middle age range from age 30-45. Studies showed that middle-age is the wider age range of lifetime, and at this stage, people start experiencing different life-threatening health factors. People with a good lifestyle and socio-economic status will cope successfully at this stage.
 
 ## An Interactive Scatter Plot on the Patterns
-To see the relationships, click on any of the factors and hover over it to see the detailed information. The chart shows the relationship between health factors (x-axis) obese, smokes, lack of health care with demographic factors (y-axis) age, household income, and poverty rate.
+To see the relationships, click on any of the factors and hover over it to see the detailed information. The chart shows the relationship between health factors (x-axis) obese, smokes, lack of health care with demographic factors (y-axis) age, household income, and poverty rate. The labels in the scatter plot are given click events so that the user/visitor can decide which data to display. Animated the transitions for circles' locations as well as the range of axes. Also,entered tooltips in D3 graphics to reveal a specific element's data when the user hovers their cursor over the element. Added tooltips to the circles and displayed each tooltip with the data that the user has selected. 
 
 ## Over All layout
 ![data journalism ](./assets/Images/D3Times.gif)
