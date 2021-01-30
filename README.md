@@ -17,7 +17,7 @@ The following dashboard shows the analysis of Median age, household income, and 
 To see the relationships, click on any of the factors and hover over it to see the detailed information. The chart shows the relationship between health factors (x-axis) obese, smokes, lack of health care with demographic factors (y-axis) age, household income, and poverty rate.
 
 ## Over All layout
-
+![data journalism ](./assets/Images/D3Times.gif)
 ## Deployment
 This app is deployed public on GitHub page, click the following link to see how it looks like D3 Time Home page
 
