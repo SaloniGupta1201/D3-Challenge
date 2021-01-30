@@ -1,4 +1,6 @@
-# D3-Challenge
+# D3-Challenge</br>
+**Submitted By:** Saloni Gupta\
+_Date_: january, 30th, 2020 
 
 ### Data Journalism: An Interactive Dashboard on the Current Trends and Health Factors that Shaping People's Lives in the United States of America
 
